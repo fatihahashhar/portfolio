@@ -1835,7 +1835,7 @@ header .logo a {
 }
 
 #work-experience .work-experience-timeline {
-	max-width: 980px;
+	max-width: 1080px;
 }
 
 #work-experience .timeline-wrap {
@@ -2355,6 +2355,7 @@ header .logo a {
 #skills .skill-logo-big {
 	width: 70px; /* Adjusted width as per requirement */
     height: auto; /* Maintain aspect ratio */
+	margin-bottom: 20px;
 }
 
 #skills .skill-logo-small {
@@ -2367,6 +2368,7 @@ header .logo a {
     display: flex;
     justify-content: center; /* Center the logo within its container */
     align-items: center; /* Center the logo vertically within its container */
+	margin-bottom: 20px;
 }
 
 .card-logo {
